@@ -9,7 +9,7 @@ public class BaseTest {
     protected static ResendPage resendPage;
 
     @BeforeClass
-    public static void setUp () {
+    public static void setUp() {
         driver = new ChromeDriver();
         String url = "https://www.wrike.com";
         driver.get(url);
