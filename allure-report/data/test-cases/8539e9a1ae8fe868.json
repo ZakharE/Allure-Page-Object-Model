@@ -1,0 +1,119 @@
+{
+  "uid" : "8539e9a1ae8fe868",
+  "name" : "finalTest",
+  "fullName" : "ResendPageTest.finalTest",
+  "historyId" : "5d949c18e505e886777ba3cd73e57975",
+  "time" : {
+    "start" : 1553781854304,
+    "stop" : 1553781862746,
+    "duration" : 8442
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click \"Get started fo free\" and move to new new page",
+      "time" : {
+        "start" : 1553781854358,
+        "stop" : 1553781858823,
+        "duration" : 4465
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Fill Q&A section with random answers and check submission",
+      "time" : {
+        "start" : 1553781858823,
+        "stop" : 1553781861164,
+        "duration" : 2341
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Press \"Resend Email\" and check submission",
+      "time" : {
+        "start" : 1553781861164,
+        "stop" : 1553781861244,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Press \"Twiter\" button and check URL validity",
+      "time" : {
+        "start" : 1553781861245,
+        "stop" : 1553781862742,
+        "duration" : 1497
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ResendPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "finalTest"
+  }, {
+    "name" : "suite",
+    "value" : "ResendPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-284JS5B"
+  }, {
+    "name" : "thread",
+    "value" : "14468@DESKTOP-284JS5B.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8539e9a1ae8fe868.json",
+  "parameterValues" : [ ]
+}

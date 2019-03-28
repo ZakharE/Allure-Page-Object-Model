@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-284JS5B",
+    "children" : [ {
+      "name" : "14468@DESKTOP-284JS5B.main(1)",
+      "children" : [ {
+        "name" : "finalTest",
+        "uid" : "8539e9a1ae8fe868",
+        "parentUid" : "2af99f28df0517ecdcec299e7507955e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553781854304,
+          "stop" : 1553781862746,
+          "duration" : 8442
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2af99f28df0517ecdcec299e7507955e"
+    } ],
+    "uid" : "d104b0fabfd96b462cc872b25da1d6cc"
+  } ]
+}
